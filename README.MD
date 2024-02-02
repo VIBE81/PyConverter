@@ -1,8 +1,8 @@
 <!-- Title -->
-<h1 style="color:blue;">PyEnc</h1>
+<h1 style="color:blue;">PyConverter</h1>
 
 <!-- Description -->
-<p style="color:green;">PyEnc is a Python script designed to encode Python scripts using various techniques such as Marshal, Zlib, Base64, and combinations thereof. This tool can be useful for obfuscating Python code to make it harder to reverse engineer.</p>
+<p style="color:green;">PyConverter is a Python script designed to encode Python scripts using various techniques such as Marshal, Zlib, Base64, and combinations thereof. This tool can be useful for obfuscating Python code to make it harder to reverse engineer.</p>
 
 <!-- Features -->
 <h2 style="color:orange;">Features</h2>
@@ -15,7 +15,7 @@
 
 <!-- Usage -->
 <h2 style="color:orange;">Usage</h2>
-<p style="color:green;">1. Run the script <code>PyEnc.py</code>.</p>
+<p style="color:green;">1. Run the script <code>PyConverter.py</code>.</p>
 <p style="color:green;">2. Choose the encoding technique you want to use from the menu.</p>
 <p style="color:green;">3. Enter the path to the Python script you want to encode.</p>
 <p style="color:green;">4. Follow the prompts to select encoding options and specify the output directory.</p>
@@ -53,4 +53,4 @@
 <br><br>
 # Visitors:
 
-![Visitor Count](https://profile-counter.glitch.me/VIBE81count.svg)
+![Visitor Count](https://profile-counter.glitch.me/VIBE81/count.svg)
