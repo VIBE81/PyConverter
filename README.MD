@@ -35,14 +35,14 @@ cd PyConverter
 ```
 ( Choose Your Python Version )
 
-[*] For Python2:
+[+] For Python2:
 ``` shell script
 python2 PyConverter.py
 ```
-[*] For Python3:
+[+] For Python3:
 ``` shell script
-python PyConverter.py
-
+python3 PyConverter.py
+```
 
 <!-- Screenshots -->
 <img src="https://i.postimg.cc/j246Q9Jh/2024-02-02-06-47.png" alt="Screenshot">
