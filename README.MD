@@ -41,7 +41,8 @@ python2 PyConverter.py
 ```
 [*] For Python3:
 ``` shell script
-python3 PyConverter.py
+python PyConverter.py
+
 
 <!-- Screenshots -->
 <img src="https://i.postimg.cc/j246Q9Jh/2024-02-02-06-47.png" alt="Screenshot">
