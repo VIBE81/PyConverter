@@ -21,6 +21,27 @@
 <p style="color:green;">4. Follow the prompts to select encoding options and specify the output directory.</p>
 <p style="color:green;">5. The encoded script will be saved in the specified directory.</p>
 
+## Installation Commands :
+``` shell script
+apt update -y
+
+apt upgrade -y
+
+pkg install python python2 git -y
+
+git clone https://github.com/VIBE81/PyConverter
+
+cd PyConverter
+```
+( Choose Your Python Version )
+
+[*] For Python2:
+``` shell script
+python2 PyConverter.py
+```
+[*] For Python3:
+``` shell script
+python3 PyConverter.py
 
 <!-- Screenshots -->
 <img src="https://i.postimg.cc/j246Q9Jh/2024-02-02-06-47.png" alt="Screenshot">
