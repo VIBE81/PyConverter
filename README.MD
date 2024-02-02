@@ -21,23 +21,6 @@
 <p style="color:green;">4. Follow the prompts to select encoding options and specify the output directory.</p>
 <p style="color:green;">5. The encoded script will be saved in the specified directory.</p>
 
-<!-- Supported Encoding Techniques -->
-<h2 style="color:orange;">Supported Encoding Techniques</h2>
-<table>
-  <tr>
-    <th style="color:blue;">Technique</th>
-    <th style="color:blue;">Description</th>
-  </tr>
-  <tr>
-    <td style="color:red;">Marshal</td>
-    <td style="color:red;">Encode Python scripts using the Marshal module.</td>
-  </tr>
-  <!-- Add more rows as needed -->
-</table>
-
-<!-- Requirements -->
-<h2 style="color:orange;">Requirements</h2>
-<p style="color:green;">- Python 2.7 or later</p>
 
 <!-- Screenshots -->
 <img src="https://i.postimg.cc/j246Q9Jh/2024-02-02-06-47.png" alt="Screenshot">
