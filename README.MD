@@ -23,11 +23,6 @@
 
 ## Installation Commands :
 ``` shell script
-apt update -y
-
-apt upgrade -y
-
-pkg install python python2 git -y
 
 git clone https://github.com/VIBE81/PyConverter
 
